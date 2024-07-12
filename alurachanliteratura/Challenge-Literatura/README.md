@@ -12,7 +12,7 @@ La aplicación de consola que desarrollaremos con Spring en IntelliJ IDEA debe c
 
 
 🔄 Actualizaciones Constantes:
-Intentaré hacer actualizaciones periodicas (pero no prometo nada, a veces tengo mucho trabajo) para poder mejorar el funcionamiento de la aplicacion y me gustaria probar distintas tecnologias en el futuro.
+Intentaré hacer actualizaciones periodicas para poder mejorar el funcionamiento de la aplicacion y me gustaria probar distintas tecnologias en el futuro.
 
 ## Cómo usar este repositorio 🤔
 Puedes clonar este repositorio o descargar los archivos específicos que necesites.
